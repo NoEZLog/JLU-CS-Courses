@@ -17,6 +17,8 @@ https://github.com/Geraldxm/JLU-CS-Courses
 
 https://github.com/WilliamPockey/JLU_CS
 
+https://jlu005807.github.io/docs.ozy/
+
 软
 
 https://github.com/JLU-NightsWatch/JLU-Courses
