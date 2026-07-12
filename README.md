@@ -17,6 +17,8 @@ https://github.com/Geraldxm/JLU-CS-Courses
 
 https://github.com/WilliamPockey/JLU_CS
 
+https://github.com/Xiaoc7r/JLUCS_Speedrun
+
 https://jlu005807.github.io/docs.ozy/
 
 软
@@ -26,6 +28,8 @@ https://github.com/JLU-NightsWatch/JLU-Courses
 https://github.com/autumn529/JLU
 
 https://github.com/lycatears/jlu
+
+https://github.com/ryan6073/JLU-Course
 
 人工智能
 
